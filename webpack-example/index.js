@@ -1,0 +1,2 @@
+import {printRandom} from './random'
+
